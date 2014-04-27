@@ -1,1 +1,1 @@
-dsfg
+This is the display.tpl that worked it is in views/templates/front
